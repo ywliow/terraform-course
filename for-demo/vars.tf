@@ -15,3 +15,7 @@ variable "map1" {
    "mango" = 0
   }
 }
+
+
+for { s in ["a","b","c"]: s
+}
